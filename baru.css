@@ -1,0 +1,47 @@
+body {
+  background-color: burlywood;
+}
+
+.display-4 {
+  color: #ff0000;
+}
+
+p {
+  color: #6c757d;
+}
+
+a {
+  color: #03136b;
+}
+
+.navbar-dark {
+  background-color: #284868;
+}
+
+.navbar-dark .navbar-brand {
+  color: #fff;
+}
+
+.navbar-dark .nav-item .nav-link {
+  color: rgb(5, 3, 99);
+}
+
+body:not(.navbar-dark) {
+  background-color: burlywood;
+}
+
+body {
+  font-size: 16px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: aqua;
+}
+
+h1 {
+  font-size: 24px;
+  color: #000;
+}
+
+p {
+  font-size: 14px;
+  color: #070101;
+}
